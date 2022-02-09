@@ -2,9 +2,9 @@
   <img alt="Login" src="assets/readme.png" width="100%">
 </p>
 
-# Clone-Spotify
+# Tela Login Github
 
-Clone da Pagina inicial do spotify.
+Tela para login no github.
 
 ## Tecnologias
 
