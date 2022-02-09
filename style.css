@@ -1,0 +1,81 @@
+body {
+  background-color: #010409;
+  font-family: 'Inter', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.login-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Inter';
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #161b22;
+  width: 24rem;
+  height: 20rem;
+  padding: 2.5rem;
+  border-radius: 1.5rem;
+}
+
+.logo img {
+  width: 12rem;
+  margin-bottom: 1.5rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+input {
+  margin-top: 0.68rem;
+  height: 2.2rem;
+  background-color: #252a34;
+
+  padding-left: 1.4rem;
+  border-radius: 0.4rem;
+  border: none;
+  outline: none;
+  color: #fff;
+}
+
+.button {
+  height: 3.4rem;
+  background-color: #5568fe;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 800;
+  font-size: 18px;
+  font-family: 'Inter';
+}
+
+p {
+  margin-top: 35px;
+  color: #c5c9cb;
+  font-weight: 400;
+}
+
+a {
+  outline: none;
+  color: #5568fe;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-family: 'montserrat';
+  text-align: center;
+}
